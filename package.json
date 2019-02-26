@@ -1,0 +1,26 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "core-js": "^2.5.1",
+    "moment": "^2.19.1",
+    "prop-types": "^15.6.0",
+    "react": "16.0.0",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-dom": "16.0.0",
+    "react-keeper": "^2.1.6",
+    "react-notify-toast": "^0.4.0",
+    "react-scripts": "0.9.0",
+    "react-swipeable-views": "^0.12.8",
+    "xmlbuilder": "^9.0.4"
+  },
+  "proxy": "http://120.77.8.170:8080/",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "homepage": "http://coship.codelabo.cn"
+}

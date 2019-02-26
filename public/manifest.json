@@ -1,0 +1,30 @@
+{
+  "short_name": "同洲电视",
+  "name": "同洲微信电视",
+  "icons": [
+    {
+      "src": "img/ic_launcher_72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "img/ic_launcher_96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "img/ic_launcher_144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "img/ic_launcher_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#17191c",
+  "background_color": "#17191c"
+}
